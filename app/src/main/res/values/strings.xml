@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GitHubChecker</string>
+    <string name="type_user_login">Type user login</string>
 </resources>
