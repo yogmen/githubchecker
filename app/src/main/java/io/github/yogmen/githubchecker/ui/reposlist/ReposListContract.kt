@@ -9,6 +9,6 @@ interface ReposListContract {
     }
 
     interface Presenter : BasePresenter{
-
+        fun fetchUserRepos(userLogin: String)
     }
 }
